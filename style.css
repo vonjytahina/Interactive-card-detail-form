@@ -52,7 +52,7 @@
   top: 32%;
   left: 26%;
   transform: translate(-50%, -50%);
-  background: url('/images/bg-card-front.png');
+  background: url('images/bg-card-front.png');
   background-size: 100% 100%;
   border-radius: 10px;
   padding: 20px 25px;
@@ -87,7 +87,7 @@
   top: 70%;
   left: 32%;
   transform: translate(-50%, -50%);
-  background: url('/images/bg-card-back.png');
+  background: url('images/bg-card-back.png');
   background-size: 100% 100%;
   border-radius: 10px;
 }
@@ -101,7 +101,7 @@
 }
 
 .app .left {
-  background-image: url('/images/bg-main-desktop.png');
+  background-image: url('images/bg-main-desktop.png');
   background-size: 100% 100%;
 }
 
@@ -268,7 +268,8 @@ form button:hover,
   }
 
   .app .left {
-    background-image: url('/images/bg-main-mobile.png');
+    background-image: url('images/bg-main-mobile.png');
+    background-size: 100% 100%;
   }
 
   .app .right form {

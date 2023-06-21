@@ -101,7 +101,7 @@
 }
 
 .app .left {
-  background-image: url('images/bg-main-desktop.png');
+  background: red;
   background-size: 100% 100%;
 }
 
